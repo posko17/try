@@ -1,5 +1,5 @@
-object=1074.o
-cpp=1074.cpp
+object=1475.o
+cpp=1475.cpp
 practice: $(object)
 	g++ -o practice $(object)
 $(object):$(cpp)
